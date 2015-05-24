@@ -1,0 +1,4 @@
+<drawable-list id="TimeBox" foreground="Gfx.COLOR_DK_BLUE">
+	<shape type="rectangle" x="0" y="0" width="218" height="218" color="Gfx.COLOR_DK_BLUE" />    
+	<!-- shape type="rectangle" x="87" y="199" width="44" height="16" color="Gfx.COLOR_BLACK" /-->    
+</drawable-list>
