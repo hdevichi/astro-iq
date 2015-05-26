@@ -1,4 +1,4 @@
 <layout id="WatchFace">
 	<drawable id="TimeBox" />
-   	<label id="TimeLabel" x="109" y="192" font="Gfx.FONT_SMALL" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_YELLOW" />
+   	<label id="TimeLabel" x="109" y="180" font="Gfx.FONT_LARGE" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" />
 </layout>
